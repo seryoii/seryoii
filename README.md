@@ -2,9 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=SeRyoung)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seryoung99)
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seryoii)](https://solved.ac/carbonsix)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seryoii)](https://solved.ac/carbonsix)![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/3-stats.svg)
+
+<img src="https://img.shields.io/badge/Java-186168?style=flat-square&logo=simpleicons_로고_이름&logoColor=white"/>
+
 
 - 👋 Hi, I’m @seryoung99
 - 👀 I’m interested in ...
