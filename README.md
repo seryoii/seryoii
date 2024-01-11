@@ -70,7 +70,7 @@
 ## <div style="text-align: left"> 😄 My Baekjoon </div> 
 
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seryoii)](https://solved.ac/carbonsix)
+![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seryoii)
 
 
 <!---
