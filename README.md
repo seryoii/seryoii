@@ -1,11 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232BABDD&title_bg=%23000000&icon=&icon_color=%23BEB9B9&title=VISITORS&edge_flat=false)](https://github.com/seryoung99)                    <a href="https://doteloper.tistory.com"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> <a href="https://lava-thrush-ec8.notion.site/6c06cb79f2474823861cb102c593f855"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=SeRyoung)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseryoung99&count_bg=%235FC2E9&title_bg=%23000000&icon=&icon_color=%23BEB9B9&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)              <a href="https://doteloper.tistory.com"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> <a href="https://lava-thrush-ec8.notion.site/6c06cb79f2474823861cb102c593f855"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=SeRyoung)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seryoung99)
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seryoii)](https://solved.ac/carbonsix)![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/3-stats.svg)
-
-<img src="https://img.shields.io/badge/Java-186168?style=flat-square&logo=simpleicons_로고_이름&logoColor=white"/>
 
 ## <div style="text-align: left"> 📚 Skills </div> 
 
@@ -52,16 +47,23 @@
 
 ## <div style="text-align: left"> 🗃 Projects </div> 
 
+- 👋 I’m @seryoung99
+- 👀 SSAFY PJT
+- 🌱 SSAFY PJT
+- 💞️ SSAFY PJT
+- 📫 SSAFY PJT
+- 😄 
+- ⚡ 
 
-- 👋 Hi, I’m @seryoung99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## <div style="text-align: left"> 😄 My Baekjoon </div> 
 
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seryoii)](https://solved.ac/carbonsix)
+
+<img src="https://img.shields.io/badge/Java-186168?style=flat-square&logo=simpleicons_로고_이름&logoColor=white"/>
+
+
+--- 
 <div align="center">
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddmadl97"/>
