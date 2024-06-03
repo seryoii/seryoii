@@ -27,6 +27,7 @@
 
 ### <div style="text-align: left"> Frontend </div>
 <p style="text-align: left">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=Vue.js&logoColor=4FC08D"/>
