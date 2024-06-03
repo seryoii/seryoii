@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=6DB33F"/>
   <img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=Spring Boot&logoColor=6DB33F"/>
   <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=Hibernate&logoColor=59666C"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=59666C"/>
+
+  
 </p>
 
 
@@ -57,7 +60,7 @@
 ---
 ## <div style="text-align: left"> 🗃 Projects </div> 
 
- 👀 SSAFY PJT 1  
+ 👀 SSAFY PJT 1 금융 데이터를 활용한 금융 상품 비교 애플리케이션
  
  🌱 SSAFY PJT 2  
  
