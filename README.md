@@ -5,8 +5,6 @@
 
 🔎 삼성 청년 SW 아카데미 (SSAFY) 11기
 
-🏢  
-
 ---
   
 ## <div style="text-align: left"> 📚 Skills </div> 
