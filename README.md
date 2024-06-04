@@ -1,59 +1,34 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseryoung99&count_bg=%235FC2E9&title_bg=%23000000&icon=&icon_color=%23BEB9B9&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)            <a href="https://lava-thrush-ec8.notion.site/6c06cb79f2474823861cb102c593f855"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
-
-## <div style="text-align: left"> 👋 개발자 </div> 
-🎓 전자공학부 정보전자전공 졸업   
-
-🔎 삼성 청년 SW 아카데미 (SSAFY) 11기
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseryoung99&count_bg=%235FC2E9&title_bg=%23000000&icon=&icon_color=%23BEB9B9&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)
+<a href="https://lava-thrush-ec8.notion.site/6c06cb79f2474823861cb102c593f855"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://instagram.com/seryoii"><img src="https://img.shields.io/badge/-Instagram-d62976?style=flat-square&logo=instagram&logoColor=white"/></a>
+<h2 align="center">Hi 👋, I'm 세령</h2>
+<p align="center">🎓 전자공학부 정보전자전공 졸업</p>
+<p align="center">🔎 삼성 청년 SW 아카데미 (SSAFY) 11기</p>
 
 ---
-  
-## <div style="text-align: left"> 📚 Skills </div> 
-
-### <div style="text-align: left"> Backend </div> 
-<p style="text-align: left">
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=744e3b"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=6DB33F"/>
-  <img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=Spring Boot&logoColor=6DB33F"/>
-  <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=Hibernate&logoColor=59666C"/>
-  <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=59666C"/>
-
-  
+## <div align="center"> 📚 Skills </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
-
-
-### <div style="text-align: left"> Frontend </div>
-<p style="text-align: left">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=Vue.js&logoColor=4FC08D"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
-
-### <div style="text-align: left"> Infra </div>
-<p style="text-align: left">
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/AWS EC2-000000?style=flat-square&logo=Amazon EC2&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/AWS S3-000000?style=flat-square&logo=Amazon S3&logoColor=569A31"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
-
-### <div style="text-align: left"> Database </div>
-<p style="text-align: left">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=007396"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-  
-### <div style="text-align: left"> Tools </div>   
-
-<p style="text-align: left">
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=Github&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=Gitlab&logoColor=FC6D26"/>
-  <img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=Jira&logoColor=0052CC"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=F24E1E"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
-
-
 
 ---
 ## <div style="text-align: left"> 🗃 Projects </div> 
@@ -78,10 +53,22 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seryoii&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=seryoii&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=seryoii&show_icons=true&theme=highcontrast-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
+![seryoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=seryoii&show_icons=true&theme=radical)
 
 <!---
 seryoii/seryoii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seryoii&label=Profile%20views&color=0e75b6&style=flat" alt="seryoii" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seryoii&show_icons=true&locale=en" alt="seryoii" /></p>
