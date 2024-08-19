@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseryoung99&count_bg=%235FC2E9&title_bg=%23000000&icon=&icon_color=%23BEB9B9&title=VISITORS&edge_flat=true)](https://hits.seeyoufarm.com)
-<a href="https://lava-thrush-ec8.notion.site/6c06cb79f2474823861cb102c593f855"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://instagram.com/seryoii"><img src="https://img.shields.io/badge/-Instagram-d62976?style=flat-square&logo=instagram&logoColor=white"/></a>
 <h2 align="center">Hi 👋, I'm 세령</h2>
 <p align="center">🎓 전자공학부 정보전자전공 졸업</p>
