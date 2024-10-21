@@ -33,11 +33,11 @@
 ---
 ## <div style="text-align: left"> 🗃 Projects </div> 
 
- 👀 SSAFY PJT 1 금융 데이터를 활용한 금융 상품 비교 애플리케이션
+ 👀 SSAFY PJT 1 금융 데이터를 활용한 금융 상품 비교 애플리케이션 HoneyMoney
  
- 🌱 SSAFY PJT 2  
+ 🌱 SSAFY PJT 2 비대면 온라인 화상 심리 상담 플랫폼 Mam-daero
  
- 💞️ SSAFY PJT 3  
+ 💞️ SSAFY PJT 3 국내 뉴스 기반 영어 학습 플랫폼 NewLearn
  
  📫 SSAFY PJT 4  
 
