@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -18,28 +18,32 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
 ## <div style="text-align: left"> 🗃 Projects </div> 
+<details>
+  <summary><strong> 금융 데이터를 활용한 금융 상품 비교 애플리케이션 HoneyMoney</strong></summary>
+  ㄴㅇㄹㄴㅇㄹ
 
- 👀 SSAFY PJT 1 금융 데이터를 활용한 금융 상품 비교 애플리케이션 HoneyMoney
+  
+  ===
+</details>
+
+ - 비대면 온라인 화상 심리 상담 플랫폼 Mam-daero
  
- 🌱 SSAFY PJT 2 비대면 온라인 화상 심리 상담 플랫폼 Mam-daero
+ - 국내 뉴스 기반 영어 학습 플랫폼 NewLearn
  
- 💞️ SSAFY PJT 3 국내 뉴스 기반 영어 학습 플랫폼 NewLearn
- 
- 📫 SSAFY PJT 4  
+ - AR 우체통 기반 롤링페이퍼 서비스 Pawly (PWA)
+
 
 
 ---
@@ -55,7 +59,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=seryoii&show_icons=true&theme=highcontrast-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
-![seryoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=seryoii&show_icons=true&theme=radical)
 
 <!---
 seryoii/seryoii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
