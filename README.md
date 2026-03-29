@@ -41,7 +41,7 @@
   | 2024.07.02 ~ 2024.08.16 | [맘대로](https://github.com/seryoii/mamdaero) | 비대면 온라인 심리 상담 플랫폼 |`Frontend`|`React`|
   | 2024.08.19 ~ 2024.10.11 | [NewLearn](https://github.com/seryoii/newlearn) | 국내 뉴스 기반 영어 학습 플랫폼 | `Frontend` | `React` |
   | 2024.10.14 ~ 2024.11.19 | [Pawly](https://github.com/seryoii/pawly) | AR 우체통 기반 롤링페이퍼 서비스 | `Frontend` | `React` |
-  | 2025.05.01 ~ 2024.10.18 | [PetFit](https://github.com/seryoii/PetFit) | 반려동물 건강 관리 서비스 | `Frontend` | `React` |
+  | 2025.05.01 ~ 2025.10.18 | [PetFit](https://github.com/seryoii/PetFit) | 반려동물 건강 관리 서비스 | `Frontend` | `React` |
 ---
 
 ![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seryoii)
